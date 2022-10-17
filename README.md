@@ -12,11 +12,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mcfaith9&how_icons=true&card_width=420px)](https://github.com/mcfaith9) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcfaith9&layout=compact)](https://github.com/mcfaith9)
-
-
-<a href="https://github.com/mcfaith9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mcfaith9&how_icons=true" />
-</a>
-<a href="https://github.com/mcfaith9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcfaith9&layout=compact" />
-</a>
