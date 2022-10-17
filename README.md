@@ -11,5 +11,4 @@ mcfaith9/mcfaith9 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mcfaith9)](https://github.com/mcfaith9)
-
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mcfaith9)](https://github.com/mcfaith9) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcfaith9&layout=compact)](https://github.com/mcfaith9)
