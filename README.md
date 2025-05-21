@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ... my project?
 - 📫 How to reach me ... social media app or here 
 
-Connect with me ![Facebook | mcfaith](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)![Discord | mcfaith#6459](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+Connect with me `marclouie at aguyiknow dot com dot ph`
 
 
 ### Languages
